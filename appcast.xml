@@ -4,20 +4,20 @@
     <title>Dental Clinic</title>
 
     <item>
-      <title>Version 1.0.1</title>
+      <title>Version 1.0.2</title>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/a7med2002/trial-dental-releases/releases/download/v1.0.1/app-release.apk"
-        sparkle:version="1.0.1"
+        url="https://github.com/a7med2002/trial-dental-releases/releases/download/v1.0.2/app-release.apk"
+        sparkle:version="1.0.2"
         sparkle:os="android" />
     </item>
 
     <item>
-      <title>Version 1.0.1</title>
+      <title>Version 1.0.2</title>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <enclosure
-        url="https://github.com/a7med2002/trial-dental-releases/releases/download/v1.0.1/dental_clinic_setup.exe"
-        sparkle:version="1.0.1"
+        url="https://github.com/a7med2002/trial-dental-releases/releases/download/v1.0.2/dental_clinic_setup.exe"
+        sparkle:version="1.0.2"
         sparkle:os="windows" />
     </item>
 
